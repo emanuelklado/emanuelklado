@@ -1,17 +1,17 @@
 ## 👋 Olá, sou Emanuel Calado,
-### Em relacionamento sério com Tecnologia e gestão! 😍
+#### Desenvolvedor Web FullStack
+#### Em um relacionamento sério com Tecnologia e Gestão! 😍
 
-Sou formado em Desenvolvimento Web fullstack pela @trybe, formado em Administração, com MBA em Gestão Empresarial pela Fundação Getúlio Vargas (FGV), um apaixonado por tecnologia e gestão, que trilhou, talvez, o caminho incomum, resgatando um grande desejo desde minha adolescência. Hoje me encontro em transição de carreira, procurando sempre me desenvolver nas novas tecnologias e tendências da área, atualmente contribuo voluntariamente com o time de desenvolvimento da "🔥 Chama inovação" com o intuito de me desenvolver a cada dia como Dev diante de cada desafio, atribuição ou task que recebo.
+Sou formado em Desenvolvimento Web fullstack pela @trybe, formado em Administração, com MBA em Gestão Empresarial pela Fundação Getúlio Vargas (FGV), um apaixonado por tecnologia e gestão, que trilhou, talvez, o caminho incomum, resgatando um grande desejo desde minha adolescência. Hoje me encontro em transição de carreira, procurando sempre me desenvolver nas novas tecnologias e tendências da área, atualmente contribuo voluntariamente com o time de desenvolvimento da "🔥 Chama Inovação" com o intuito de me desenvolver a cada dia como Dev diante de cada desafio, atribuição ou task que recebo, por meio desta experiência também pude desenvolver habilidades de gestão ágil, comunicação eficiente e trabalho em equipe.
 
 ### Para Contato:
 ✉️ Você pode entrar em contato em: emanuklado@gmail.com;<br>
 📱 +55 - 83-99632-0020;<br>
-Ou pelo meu linkedIn: https://www.linkedin.com/in/emanuelcalado
+Ou pelo meu linkedIn: https://www.linkedin.com/in/emanuelcalado, onde pode conhecer mais de minha trajetória! 
 
-#### Curiosidades
+#### Curiosidades e Interesses
 ✨ Aberto a colaborar em projetos diversos.<br>
 💟 Amo viajar e conversar sobre gestão, tecnologia e experiência do usuário.<br>
-
 
 
 
