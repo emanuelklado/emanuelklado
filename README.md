@@ -1,6 +1,6 @@
 ## 👋 Olá, sou Emanuel Calado,
-#### Desenvolvedor Web FullStack
-#### Em um relacionamento sério com Tecnologia e Gestão! 😍
+#### Desenvolvedor Web FullStack.
+
 
 Sou formado em Desenvolvimento Web fullstack pela @trybe, formado em Administração, com MBA em Gestão Empresarial pela Fundação Getúlio Vargas (FGV), um apaixonado por tecnologia e gestão, que trilhou, talvez, o caminho incomum, resgatando um grande desejo desde minha adolescência. Hoje me encontro em transição de carreira, procurando sempre me desenvolver nas novas tecnologias e tendências da área, atualmente contribuo voluntariamente com o time de desenvolvimento da "🔥 Chama Inovação" com o intuito de me desenvolver a cada dia como Dev diante de cada desafio, atribuição ou task que recebo, por meio desta experiência também pude desenvolver habilidades de gestão ágil, comunicação eficiente e trabalho em equipe.
 
@@ -12,6 +12,7 @@ Ou pelo meu linkedIn: https://www.linkedin.com/in/emanuelcalado, onde pode conhe
 #### Curiosidades e Interesses
 ✨ Aberto a colaborar em projetos diversos.<br>
 💟 Amo viajar e conversar sobre gestão, tecnologia e experiência do usuário.<br>
+Em um relacionamento sério com Tecnologia e Gestão! 😍
 
 
 
