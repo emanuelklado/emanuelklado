@@ -4,7 +4,7 @@
 
 Sou formado em Desenvolvimento Web fullstack pela @trybe, formado em Administração, com MBA em Gestão Empresarial pela Fundação Getúlio Vargas (FGV), um apaixonado por tecnologia e gestão, que trilhou, talvez, o caminho incomum, resgatando um grande desejo desde minha adolescência. Hoje me encontro em transição de carreira, procurando sempre me desenvolver nas novas tecnologias e tendências da área, atualmente contribuo voluntariamente com o time de desenvolvimento da "🔥 Chama Inovação" com o intuito de me desenvolver a cada dia como Dev diante de cada desafio, atribuição ou task que recebo, por meio desta experiência também pude desenvolver habilidades de gestão ágil, comunicação eficiente e trabalho em equipe.
 
-### Para Contato:
+#### Para Contato:
 ✉️ Você pode entrar em contato em: emanuklado@gmail.com;<br>
 📱 +55 - 83-99632-0020;<br>
 Ou pelo meu linkedIn: https://www.linkedin.com/in/emanuelcalado, onde pode conhecer mais de minha trajetória! 
@@ -24,7 +24,7 @@ Em um relacionamento sério com Tecnologia e Gestão! 😍
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 
-### GitHub Stats:
+#### GitHub Stats:
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuelklado&show_icons=true&theme=tokyonight"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelklado&layout=compact&theme=tokyonight"/>
