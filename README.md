@@ -2,7 +2,7 @@
 #### Desenvolvedor Web FullStack.
 
 
-Sou formado em Desenvolvimento Web fullstack pela @trybe, formado em Administração, com MBA em Gestão Empresarial pela Fundação Getúlio Vargas (FGV), um apaixonado por tecnologia e gestão, que trilhou, talvez, o caminho incomum, resgatando um grande desejo desde minha adolescência. Hoje me encontro em transição de carreira, procurando sempre me desenvolver nas novas tecnologias e tendências da área, atualmente contribuo voluntariamente com o time de desenvolvimento da "🔥 Chama Inovação" com o intuito de me desenvolver a cada dia como Dev diante de cada desafio, atribuição ou task que recebo, por meio desta experiência também pude desenvolver habilidades de gestão ágil, comunicação eficiente e trabalho em equipe.
+<p>Sou formado em Desenvolvimento Web fullstack pela <a href="[http://www.betrybe.com](https://www.betrybe.com/)">@trybe</a>, formado em Administração, com MBA em Gestão Empresarial pela Fundação Getúlio Vargas (FGV), um apaixonado por tecnologia e gestão, que trilhou, talvez, o caminho incomum, resgatando um grande desejo desde minha adolescência. Hoje me encontro em transição de carreira, procurando sempre me desenvolver nas novas tecnologias e tendências da área, atualmente contribuo voluntariamente com o time de desenvolvimento da "🔥 Chama Inovação" com o intuito de me desenvolver a cada dia como Dev diante de cada desafio, atribuição ou task que recebo, por meio desta experiência também pude desenvolver habilidades de gestão ágil, comunicação eficiente e trabalho em equipe.,/p>
 
 #### Para Contato:
 ✉️ Você pode entrar em contato em: emanuklado@gmail.com;<br>
