@@ -7,7 +7,7 @@
 #### Para Contato:
 ✉️ Você pode entrar em contato em: emanuklado@gmail.com;<br>
 📱 +55 - 83-99632-0020;<br>
-Ou pelo meu linkedIn: https://www.linkedin.com/in/emanuelcalado, onde pode conhecer mais de minha trajetória! 
+Ou pelo meu linkedIn: [https://www.linkedin.com/in/emanuelcalado](https://www.linkedin.com/in/emanuel-calado-862b87283/), onde pode conhecer mais de minha trajetória! 
 
 #### Curiosidades e Interesses
 ✨ Aberto a colaborar em projetos diversos.<br>
